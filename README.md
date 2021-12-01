@@ -43,7 +43,7 @@ run the container on windows
 
 docker images
 
-PS C:\projects\docker\flask> docker images
+PS C:\projects\docker\flask> docker images 
 
 REPOSITORY            TAG        IMAGE ID       CREATED         SIZE
 username/my-app       latest     70c9404d25b6   4 minutes ago   441MB
